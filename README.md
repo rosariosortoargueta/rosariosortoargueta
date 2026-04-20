@@ -21,4 +21,4 @@ A lo largo del bootcamp he estado aprendiendo y trabajando con las siguientes te
 ## 📫 Contacto
 ¡Conectemos! Si quieres hablar sobre tecnología o colaboraciones, aquí me puedes encontrar:
 * 💼 **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-* 📧 **Correo electrónico:** [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)
+* 📧 **Correo electrónico:** [tu_correo@ejemplo.com](rosario.sorto.argueta@clases.edu.sv)
